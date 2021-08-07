@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 </p>
 
 
+# Stats
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInspiredEnigma12477&count_bg=%23FD6D6D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=TODAY+%2F+TOTAL&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+[![InspiredEnigma12477's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=InspiredEnigma12477&theme=onestar&row=2)](https://github.com/ryo-ma/github-profile-trophy)  
+
+![InspiredEnigma12477's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InspiredEnigma12477&theme=highcontrast&count_private=true&show_icons=true&border_radius=8)  
+
+[![InspiredEnigma12477's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InspiredEnigma12477&theme=maroongold)](https://git.io/streak-stats)
 
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
