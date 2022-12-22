@@ -80,9 +80,3 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
-![Vim](https://img.shields.io/badge/Aman_Agham-Member-yellow)
-![Vim](https://img.shields.io/badge/Shivam_Sakore-Member-yellow)
-![Vim](https://img.shields.io/badge/Rupesh_Chincholkar-Member-yellow)
-![Vim](https://img.shields.io/badge/Vishal_Khiratkar-Member-yellow)
