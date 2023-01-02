@@ -15,11 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<p>
-  <a href="https://twitter.com/sakoreshivam">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sakoreshivam?style=for-the-badge">
-  </a>
-</p>
+
+## Social Media
+<div id="badges">
+  <p>
+    <a href="https://www.linkedin.com/in/shivam-sakore/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://twitter.com/sakoreshivam">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sakoreshivam?style=for-the-badge">
+    </a>
+  </p>
+  <p>
+    <a href="https://www.instagram.com/sakoreshivam/">
+      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
+</div>
 
 [<img src="https://dtinth-github.vercel.app/Hello.svg" alt="hello" name="shivam-hello">](https://github.com/dtinth/dtinth/blob/vercel/images/Hello.tsx)<br>
 [<img src="https://dtinth-github.vercel.app/Marquee.svg" alt="welcome to my GitHub profile, thanks for visiting! click on each image to see the source code that generates it." name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)
