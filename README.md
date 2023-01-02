@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 [![InspiredEnigma12477's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InspiredEnigma12477&theme=maroongold)](https://git.io/streak-stats)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sakoreshivam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -82,3 +85,4 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+[![](https://visitcount.itsvg.in/api?id=Inspiredenigma12477&icon=1&color=1)](https://visitcount.itsvg.in)
