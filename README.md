@@ -29,9 +29,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[<img src="https://dtinth-github.vercel.app/Hello.svg" alt="hello" name="shivam-hello">](https://github.com/dtinth/dtinth/blob/vercel/images/Hello.tsx)<br>
-[<img src="https://dtinth-github.vercel.app/Marquee.svg" alt="welcome to my GitHub profile, thanks for visiting! click on each image to see the source code that generates it." name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)
-
 # Stats
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInspiredEnigma12477&count_bg=%23FD6D6D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=TODAY+%2F+TOTAL&edge_flat=false)](https://hits.seeyoufarm.com)  
