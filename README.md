@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![InspiredEnigma12477's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InspiredEnigma12477&theme=maroongold)](https://git.io/streak-stats)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sakoreshivam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=sakoreshivam)](https://twitter.com/sakoreshivam)
 
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
