@@ -1,5 +1,6 @@
 ###   <h1> Hi, it's Shivam Sakore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-https://komarev.com/ghpvc/?username=InspiredEnigma12477&style=circle&color=dd6286
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=InspiredEnigma12477&style=circle&color=dd6286" alt="views"/></div>
 
 <!--
 **InspiredEnigma12477/Inspiredenigma12477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
